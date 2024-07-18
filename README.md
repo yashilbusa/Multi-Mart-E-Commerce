@@ -22,26 +22,26 @@ Welcome to my GitHub repository for the  Frontend Developer Summer Internship 20
 
 ### 3rd May 2024 - 9th May 2024
 - **Initial Setup**:
-    -Set up the ReactJS environment and created a new React project.
-    -Built the basic UI for the Navbar of the website.
-    -Implemented navigation between screens and basic state management using Redux.
+    - Set up the ReactJS environment and created a new React project.
+    - Built the basic UI for the Navbar of the website.
+    - Implemented navigation between screens and basic state management using Redux.
 - **Exploration**:
-    -Explored various React libraries and their properties.
+    - Explored various React libraries and their properties.
 - **Challenges**:
-    -Encountered issues with state management and navigation implementation.
+    - Encountered issues with state management and navigation implementation.
   
 ## Week 2 Developing Core Features
 
 ### 10th May 2024 - 16th May 2024
 - **Core Features Development**:
-    -Developed product listing and shopping cart functionality.
-    -Implemented product filtering and search features.
-    -Integrated product details page with dynamic routing.
+    - Developed product listing and shopping cart functionality.
+    - Implemented product filtering and search features.
+    - Integrated product details page with dynamic routing.
 - **Enhancements**:
-    -Added form validation and error handling for user inputs.
-    -Implemented responsive design for better mobile compatibility.
+    - Added form validation and error handling for user inputs.
+    - Implemented responsive design for better mobile compatibility.
 - **Challenges**:
-    -Faced difficulties with implementing search and filter functionalities.
+    - Faced difficulties with implementing search and filter functionalities.
   
 ## Week 3 Developing Core Features
 
