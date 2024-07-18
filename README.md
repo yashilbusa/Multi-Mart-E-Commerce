@@ -5,35 +5,32 @@
 
 Welcome to my GitHub repository for the  Frontend Developer Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Front end Technologies like reactjs and reduxjs. 
 
-## 🚀 Introduction
+## 🚀 Project Definition
 
 ### *1st May 2024*
-- *AWS Bootcamp Live Session*: Basics of Amazon Web Services
-- On 25th may, there was a live bootcamp which Amit Arora sir(Security Architect at AWS) is doing for an AWS Club where entry level engineers can participate and build there AWS skills from groundsup.. So it wasn't the start of internship but we learnt the basics of amazon web services , how it provides various functionalities to developers.
-The internsip period is of 4 weeks with focus on Labs and Practical Insights to make familiar with aws.
+-The Multi-Mart E-Commerce Platform is an innovative project developed by CodeAlpha, aimed at creating a comprehensive online marketplace that facilitates the sale and purchase of various products, including mobiles, watches, chairs, and sofas. Leveraging the power of modern web technologies, specifically ReactJS and Redux, this project focuses on providing a seamless, efficient, and user-friendly shopping experience for customers and a robust management system for vendors.
 
 # Start of Internship
 
 ## 1️⃣ week 1
 ### *1st May 2024*
-- *Orientation Meeting*: Introduction to AWS and overview of the internship tasks
-- At the start of meeting I tackled questions regarding aws to know its base. Then the 1st week agenda regarding the tasks to be done was discussed. The tasks including from the start of creating an account to generating a portfolio hosted on a aws instance.
-
-<img src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=2147483647&v=beta&t=1WAkA9Pdvki3nSBEkXHCF7LkPrQvbmaeJu39czxaqpg" alt="AWS Bootcamp" width="300"/>
-
+- *Learning the Basic front end Technology*: Learning the basic front-end technologies is a crucial step for anyone aspiring to become a web developer or improve their web development skills. Front-end technologies are responsible for creating the user interface and user experience of websites and web applications. Here are some key points to keep in mind while learning the basic front-end technology
+• React Js
+• Redux Js Module
+• HTML
+• JAVSCRIPT
 
 ### *Here is the Outine of Week-1:*
 
-1. Create an AWS Free Tier account
-2. Log on to the AWS Console
-3. AWS Billing and Cost Management
-4. Set up a zero-dollar limit budget
-5. Launch an EC2 Instance
-6. Connect to the EC2 Instance
-7. Install Apache Web Server on the Linux Instance
-8. Deploy a personal page.html on Apache
-9. Open Security Group for Apache to accept connections on port 80
-10. Access the page.html using the public IP address of the EC2 instance
+1. ReactJs
+   ReactJS, developed and maintained by Facebook, is a popular JavaScript library used for building user interfaces,         
+   particularly single-page applications. It allows developers to create large web applications that can update and render         efficiently in response to data changes. ReactJS is known for its simplicity, flexibility, and performance, making it a         preferred choice for many modern web development projects.
+2. ReduxJs
+   ReduxJS is a predictable state container for JavaScript applications, widely used in
+   conjunction with ReactJS to manage the application state in a more structured and maintainable way. Redux centralizes the       application's state and logic, enabling powerful capabilities like time-travel debugging and state persistence. This makes      Redux an essential tool for building complex applications with predictable behavior.
+3. JAVASCRIPT
+   JavaScript is a versatile and widely used programming language that is primarily used to add interactivity and dynamic          behavior to web pages. Developed by Brendan Eich in the mid-1990s, it has become an essential component of web development,     enabling developers to create interactive user interfaces, handle user events, manipulate data, and communicate with servers.
+
 
 ## 📝 Day-by-Day Progress
 
