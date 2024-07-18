@@ -20,7 +20,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 
 ## 📝 Weekly Report
 
-### Week 1: Setting Up the Development Environment and Introduction to ReactJS
+### 1️⃣ Week 1: Setting Up the Development Environment and Introduction to ReactJS
 **Date:3rd May - 9th May**
 
 #### Orientation Meeting:
@@ -42,7 +42,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 - Learning the basics of ReactJS (components, JSX, virtual DOM).
 - Creating basic functional components and passing props.
 
-### Week 2: Diving Deeper into ReactJS and State Management
+### 2️⃣ Week 2: Diving Deeper into ReactJS and State Management
 **Date: 10th May - 16th May** 
 
 #### Task 1: Understanding state and lifecycle methods
@@ -64,7 +64,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 - Implementing form validation and handling user input.
 - Fetching data from a public API and displaying it in a component.
 
-### Week 3: Advanced React Concepts and Project Work
+### 3️⃣ Week 3: Advanced React Concepts and Project Work
 **Date: 17th May - 23th May** 
 
 #### Task 1: Advanced React concepts
@@ -87,7 +87,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 - Planning and designing the main project (portfolio website).
 - Creating initial components and layout for the portfolio website.
 
-### Week 4: Finalizing the Project and Deployment
+### 4️⃣ Week 4: Finalizing the Project and Deployment
 **Date: 23th May - 30th May** 
 
 #### Task 1: Finalizing the portfolio website
@@ -127,5 +127,10 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 
 ---
 
-Thank you for visiting my GitHub repository. Feel free to explore the code and projects developed during the internship!
+## 🤝 Connect with Me
 
+- LinkedIn: [Yashil Busa](https://in.linkedin.com/in/yashilbusa)
+
+- Email: yashilpatel1914@gmail.com 
+
+Thank you for visiting my GitHub repository. Feel free to explore the code and projects developed during the internship!
