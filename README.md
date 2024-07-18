@@ -30,7 +30,7 @@ Welcome to my GitHub repository for the  Frontend Developer Summer Internship 20
 - **Challenges**:
     - Encountered issues with state management and navigation implementation.
   
-## Week 2 Developing Core Features
+## 2️⃣ Week 2 Developing Core Features
 
 ### 10th May 2024 - 16th May 2024
 - **Core Features Development**:
@@ -43,12 +43,12 @@ Welcome to my GitHub repository for the  Frontend Developer Summer Internship 20
 - **Challenges**:
     - Faced difficulties with implementing search and filter functionalities.
   
-## Week 3 Developing Core Features
+## 3️⃣ Week 3 
 
 ### 17th May 2024 - 23th May 2024
 
 
-## Week 4 Finalizing and Deployment
+## 4️⃣ Week 4 
 
 ### 24th May 2024 - 30th May 2024
 - 
