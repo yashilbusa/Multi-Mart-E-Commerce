@@ -326,9 +326,9 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [[https://www.linkedin.com](https://in.linkedin.com/in/yashilbusa)]
+- LinkedIn : https://www.linkedin.com/yashilbusa
 
-- Email: [yashilpatel1914@gmail.com]
+- Email : yashilpatel1914@gmail.com
 
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
