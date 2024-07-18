@@ -167,6 +167,8 @@ button {
 .removeCart {
   background: none;
   font-size: 25px;
+  border: 1px solid rgb(3 0 71 / 9%);
+  color: #0f3460;
 }
 
 .cartControl {
@@ -184,7 +186,7 @@ button {
   font-size: 20px;
 }
 
-.incCart {
+/* .incCart {
   background: none;
   border: 1px solid rgb(3 0 71 / 9%);
   color: #0f3460;
@@ -192,11 +194,20 @@ button {
 
 .desCart {
   background: #f6f9fc;
+  border: 1px solid rgb(3 0 71 / 9%);
+  color: #0f3460;
+} */
+
+.incCart, .desCart, .delete {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  border: 1px solid rgb(3 0 71 / 9%);
+  padding: 10px;
+  margin: 5px;
 }
 
-.cart-total h4 {
-  font-size: 15px;
-  font-weight: 400;
+.incCart:hover, .desCart:hover, .delete:hover {
+  background-color: #e0e0e0;
 }
 
 .cart-total h3 {
