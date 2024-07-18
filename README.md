@@ -1,4 +1,4 @@
-# summerintership2024_21IT016
+# SummerIntership2024_21IT016
 
 <h2>6th Sem Summer Internship</h2>
 # 🌟 Frontend Developer Summer Internship 2024 - Project Showcase 🌟
@@ -7,7 +7,7 @@ Welcome to my GitHub repository for the  Frontend Developer Summer Internship 20
 
 ## 🚀 Introduction
 
-### *25th May 2024*
+### *1st May 2024*
 - *AWS Bootcamp Live Session*: Basics of Amazon Web Services
 - On 25th may, there was a live bootcamp which Amit Arora sir(Security Architect at AWS) is doing for an AWS Club where entry level engineers can participate and build there AWS skills from groundsup.. So it wasn't the start of internship but we learnt the basics of amazon web services , how it provides various functionalities to developers.
 The internsip period is of 4 weeks with focus on Labs and Practical Insights to make familiar with aws.
@@ -15,7 +15,7 @@ The internsip period is of 4 weeks with focus on Labs and Practical Insights to 
 # Start of Internship
 
 ## 1️⃣ week 1
-### *28th May 2024*
+### *1st May 2024*
 - *Orientation Meeting*: Introduction to AWS and overview of the internship tasks
 - At the start of meeting I tackled questions regarding aws to know its base. Then the 1st week agenda regarding the tasks to be done was discussed. The tasks including from the start of creating an account to generating a portfolio hosted on a aws instance.
 
@@ -115,7 +115,7 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 2️⃣ week 2
 
-### *4th June 2024*
+### *8th May 2024*
 - *Online Session*: Learning about storage and S3 with its related services ,also swictching from EC2 to S3
 - In the start of meeting we were asked rapid questions regarding week 1 task.
   ![AWS Cloudfront](https://media.licdn.com/dms/image/C4E12AQEYszsOFAPr5w/article-cover_image-shrink_423_752/0/1604073753428?e=1723680000&v=beta&t=jL2yIMG8R1YzgOTl7VSfr4YN6m50WtYwZTvAFLipRRE)
@@ -196,7 +196,7 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 3️⃣ week 3
 
-### 12th June 2024
+### 15th May 2024
 - Online Session: Introduction to AWS DynamoDB, API Gateway, and Lambda Functions
 - This week focused on building a serverless backend using AWS services like DynamoDB, API Gateway, and Lambda Functions. We worked on a project to create CRUD APIs for managing items in a DynamoDB table.
 
@@ -254,7 +254,7 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 4️⃣ week 4
 
-### *21st June 2024*
+### *22th May June 2024*
 - *Online Session*: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
 - This week focused on building a knowledge base using AWS Bedrock, creating a vector store for efficient data retrieval, and interacting with the knowledge base using an agent.
 
@@ -326,9 +326,9 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [[https://www.linkedin.com](https://www.linkedin.com/in/viken-hadavani-27b6412b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc%2BtFz8i0SqaVmf395szcFw%3D%3D)]
+- LinkedIn: [[https://www.linkedin.com](https://in.linkedin.com/in/yashilbusa)]
 
-- Email: [vikenhadavani@gmail.com]
+- Email: [yashilpatel1914@gmail.com]
 
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
