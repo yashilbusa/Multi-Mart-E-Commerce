@@ -23,9 +23,6 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 ### 1️⃣ Week 1: Setting Up the Development Environment and Introduction to ReactJS
 **Date:3rd May - 9th May**
 
-#### Orientation Meeting:
-- Introduction to CodeAlpha and overview of internship tasks.
-
 #### Task 1: Setting up the development environment
 - Installed Node.js and npm.
 - Set up a new ReactJS project using create-react-app.
@@ -90,7 +87,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 ### 4️⃣ Week 4: Finalizing the Project and Deployment
 **Date: 23th May - 30th May** 
 
-#### Task 1: Finalizing the portfolio website
+#### Task 1: Finalizing the website
 - Completed the remaining components and styling.
 - Ensured responsiveness and cross-browser compatibility.
 
@@ -110,7 +107,7 @@ Welcome to my GitHub repository for the CodeAlpha Summer Internship 2024! This p
 - Implementing interactivity and animations.
 - Conducting thorough testing and debugging.
 - Learning about deployment options.
-- Deploying the portfolio website.
+- Deploying the website.
 
 ---
 
