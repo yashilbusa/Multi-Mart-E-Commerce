@@ -39,7 +39,7 @@ Welcome to my GitHub repository for the  Frontend Developer Summer Internship 20
 - 
 ## 🤝 Connect with Me
 
-- LinkedIn : https://www.linkedin.com/yashilbusa
+- LinkedIn : [Yashil Busa](https://www.linkedin.com/yashilbusa)
 - Email : yashilpatel1914@gmail.com
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
