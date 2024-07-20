@@ -200,6 +200,7 @@ button {
 
 .incCart, .desCart, .delete {
   cursor: pointer;
+  color: #126ee0 !important;
   background-color: #f0f0f0;
   border: 1px solid rgb(3 0 71 / 9%);
   padding: 10px;
